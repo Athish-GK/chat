@@ -1,0 +1,23 @@
+{
+  "editor.fontSize": 17,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.bracketPairsHorizontal": true,
+  "workbench.iconTheme": "vscode-icons",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.tabSize": 2,
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+  "liveServer.settings.CustomBrowser": "chrome",
+  "editor.wordWrap": "on",
+  "editor.stickyScroll.enabled": false,
+  "editor.bracketPairColorization.enabled": true,
+  "workbench.colorTheme": "Synthwave x Fluoromachine 🝰 Avant Noir",  // Correct theme
+  "vscode_custom_css.imports": [
+    "file:///C:/Users/Johan/.vscode/extensions/thecodemonkey.synthwave-x-fluoromachine-epic-animations-1.4.13/synthwave-x-fluoromachine.css",  // Import Synthwave X CSS
+    "file:///C:/Users/Johan/.vscode/extensions/thecodemonkey.synthwave-x-fluoromachine-epic-animations-1.4.13/epic-80s-transitions.css"  // Import epic 80s transitions CSS
+  ],
+  "vscode_custom_css.enable": true,  // Ensure custom CSS is enabled
+  "synthwaveX.epicAnimations": true,  // Enable neon effects and epic animations
+  "synthwaveX.activate": "onStartup",
+  "liveServer.settings.port": 5501 // Activate theme on startup
+}
